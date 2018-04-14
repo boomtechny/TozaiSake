@@ -642,7 +642,6 @@ input[type=submit]:active {
 }
 
 .section-products h3 {
-    color: #b9a0a9;
     text-align: left;
     text-transform: uppercase;
 }
@@ -688,6 +687,11 @@ input[type=submit]:active {
 #prod4-content,
 #prod5-content {
     width: 100%;
+}
+
+#prod1-content h3,
+h4 {
+    color: #b9a0a9;
 }
 
 #prod2-content h3,
