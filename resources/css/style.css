@@ -397,7 +397,7 @@ input[type=submit]:active {
 
 .section-hero:before {
     content: "";
-    background-image: url(./img/pattern1.png);
+    background-image: url(./img/pattern1-min.png);
     width: 100%;
     height: 115vh;
     background-repeat: repeat;
@@ -457,7 +457,7 @@ input[type=submit]:active {
 
 .main-nav li a:hover {
     content: "";
-    background-image: url(./img/newstroke4.png);
+    background-image: url(./img/newstroke4-min.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -517,8 +517,8 @@ input[type=submit]:active {
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))), url(./img/kizakura-brewery-photo.jpg);
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./img/kizakura-brewery-photo.jpg);
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))), url(./img/kizakura-brewery-photo-min.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./img/kizakura-brewery-photo-min.jpg);
     background-size: cover;
     color: #fff;
     background-attachment: fixed;
@@ -830,7 +830,7 @@ h4 {
 
 #product1:before {
     content: "";
-    background-image: url(./img/snow-maiden.jpg);
+    background-image: url(./img/snow-maiden-min.jpg);
     width: 100%;
     height: 100vh;
     background-repeat: no-repeat;
@@ -859,7 +859,7 @@ h4 {
 
 #product2:before {
     content: "";
-    background-image: url(./img/living-jewel.jpg);
+    background-image: url(./img/living-jewel-min.jpg);
     width: 100%;
     height: 100vh;
     background-position: center;
@@ -888,7 +888,7 @@ h4 {
 
 #product3:before {
     content: "";
-    background-image: url(./img/blossom-of-peace.jpg);
+    background-image: url(./img/blossom-of-peace-min.jpg);
     width: 100%;
     height: 100vh;
     background-position: center;
@@ -917,7 +917,7 @@ h4 {
 
 #product4:before {
     content: "";
-    background-image: url(./img/well-of-wisdom.jpg);
+    background-image: url(./img/well-of-wisdom-min.jpg);
     width: 100%;
     height: 100vh;
     background-position: center;
@@ -946,7 +946,7 @@ h4 {
 
 #product5:before {
     content: "";
-    background-image: url(./img/typhoon.jpg);
+    background-image: url(./img/typhoon-min.jpg);
     width: 100%;
     height: 100vh;
     background-position: center;
@@ -975,7 +975,7 @@ h4 {
 
 .section-location:before {
     content: "";
-    background-image: url(./img/pattern1.png);
+    background-image: url(./img/pattern1-min.png);
     width: 100%;
     height: 120vh;
     background-repeat: repeat;

@@ -194,7 +194,7 @@ icon3.addEventListener("click", function() {
 });
 
 icon4.addEventListener("click", function() {
-    elem1.innerHTML = `<img class="recipe" src="resources/img/mango-maiden-recipe.jpg">`;
+    elem1.innerHTML = `<img class="recipe" src="resources/img/mango-maiden-recipe-min.jpg">`;
 });
 
 icon5.addEventListener("click", function() {
@@ -239,7 +239,7 @@ icon7.addEventListener("click", function() {
 });
 
 icon8.addEventListener("click", function() {
-    elem2.innerHTML = `<img class="recipe" src="resources/img/ruby-jewel-recipe.jpg">`;
+    elem2.innerHTML = `<img class="recipe" src="resources/img/ruby-jewel-recipe-min.jpg">`;
 });
 
 icon9.addEventListener("click", function() {
@@ -284,7 +284,7 @@ icon11.addEventListener("click", function() {
 });
 
 icon12.addEventListener("click", function() {
-    elem3.innerHTML = `<img class="recipe" src="resources/img/sakura-smash-recipe.jpg">`;
+    elem3.innerHTML = `<img class="recipe" src="resources/img/sakura-smash-recipe-min.jpg">`;
 });
 
 icon13.addEventListener("click", function() {
@@ -329,7 +329,7 @@ icon15.addEventListener("click", function() {
 });
 
 icon16.addEventListener("click", function() {
-    elem4.innerHTML = `<img class="recipe" src="resources/img/tea-of-wisdom.jpg">`;
+    elem4.innerHTML = `<img class="recipe" src="resources/img/tea-of-wisdom-min.jpg">`;
 });
 
 icon17.addEventListener("click", function() {
@@ -373,7 +373,7 @@ icon19.addEventListener("click", function() {
 });
 
 icon20.addEventListener("click", function() {
-    elem5.innerHTML = `<img class="recipe" src="resources/img/citrus-basil-typhoontini-recipe.jpg">`;
+    elem5.innerHTML = `<img class="recipe" src="resources/img/citrus-basil-typhoontini-recipe-min.jpg">`;
 });
 
 //WayPoints
