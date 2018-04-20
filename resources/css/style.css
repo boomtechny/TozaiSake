@@ -699,27 +699,27 @@ input[type=submit]:active {
 
 #prod1-content h3,
 h4 {
-    color: #b9a0a9;
+    color: #b9a0a9 !important;
 }
 
 #prod2-content h3,
 h4 {
-    color: #c3dae5;
+    color: #c3dae5 !important;
 }
 
 #prod3-content h3,
 h4 {
-    color: #e48153;
+    color: #e48153 !important;
 }
 
 #prod4-content h3,
 h4 {
-    color: #e5bb82;
+    color: #e5bb82 !important;
 }
 
 #prod5-content h3,
 h4 {
-    color: #cfb476;
+    color: #cfb476 !important;
 }
 
 .overview_wrapper,
@@ -792,6 +792,10 @@ h4 {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+}
+
+.recipe {
+    width: 100%;
 }
 
 .section-products h3:nth-of-type(2) {

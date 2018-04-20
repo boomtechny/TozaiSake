@@ -118,11 +118,11 @@ linksToAnchors.forEach(each => (each.onclick = anchorLinkHandler));
 
 //Product Menu
 
-var elem1 = document.querySelector("#prod1-content");
-var elem2 = document.querySelector("#prod2-content");
-var elem3 = document.querySelector("#prod3-content");
-var elem4 = document.querySelector("#prod4-content");
-var elem5 = document.querySelector("#prod5-content");
+var elem1 = document.getElementById("prod1-content");
+var elem2 = document.getElementById("prod2-content");
+var elem3 = document.getElementById("prod3-content");
+var elem4 = document.getElementById("prod4-content");
+var elem5 = document.getElementById("prod5-content");
 // Get HTML content
 
 var icon1 = document.getElementById("prod1-overview");
