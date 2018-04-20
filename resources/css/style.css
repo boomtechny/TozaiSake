@@ -168,6 +168,14 @@ h3 {
 
 /*---------------------------------------*/
 
+input[type=name],
+input[type=text],
+input[type=tel],
+input[type=email],
+textarea {
+    margin-top: .5rem !important;
+}
+
 button,
 .btn:link,
 .btn:visited,
@@ -1303,6 +1311,7 @@ footer a:hover {
 
 .input-line input[type=email] {
     border-radius: 0px;
+    margin-top: .5rem;
 }
 
 .input-line input[type=submit] {
