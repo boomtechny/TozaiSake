@@ -697,28 +697,43 @@ input[type=submit]:active {
     width: 100%;
 }
 
-#prod1-content h3,
-h4 {
+#prod1-content h3 {
     color: #b9a0a9 !important;
 }
 
-#prod2-content h3,
-h4 {
+#prod1-content h4 {
+    color: #b9a0a9 !important;
+}
+
+#prod2-content h3 {
     color: #c3dae5 !important;
 }
 
-#prod3-content h3,
-h4 {
+#prod3-content h3 {
     color: #e48153 !important;
 }
 
-#prod4-content h3,
-h4 {
+#prod4-content h3 {
     color: #e5bb82 !important;
 }
 
-#prod5-content h3,
-h4 {
+#prod4-content h4 {
+    color: #e5bb82 !important;
+}
+
+#prod2-content h4 {
+    color: #c3dae5 !important;
+}
+
+#prod3-content h4 {
+    color: #e48153 !important;
+}
+
+#prod5-content h3 {
+    color: #cfb476 !important;
+}
+
+#prod5-content h4 {
     color: #cfb476 !important;
 }
 
